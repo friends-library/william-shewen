@@ -1,16 +1,18 @@
 == Meditations and Experiences
 
+[.chapter-subtitle--blurb]
 Made public as a testimony to the right way to God,
 revealed and made known in this the Day of his glorious appearing to his people,
 that they may be encouraged to walk therein to the end thereof.
 
-// lint-disable invalid-characters
-Exodus 14:15 ~ "`Speak unto the children of Israel, that they go forward.`"
+[.centered]
+__"`Speak unto the children of Israel, that they go forward.`"__ (Exodus 14:15)
 
-// lint-disable invalid-characters
-Matthew 24:13 ~ "`He that endures to the end, shall be saved.`"
+[.centered]
+__"`He that endures to the end, shall be saved.`"__ (Matthew 24:13)
 
-I+++.+++ The Power that Crucifies Sin
+[.centered]
+=== I+++.+++ The Power that Crucifies Sin
 
 It is a precious thing to know what the cross of Christ is,
 and how to take it up, and make use of it; for indeed,
@@ -23,7 +25,8 @@ in the whole world that are able to crucify one sin, as to the nature of it,
 nor to make one disciple, nor enable to watch with Christ one hour,
 nor follow him one step in the regeneration.
 
-II. The Eye of the Mind Opened
+[.centered]
+=== II. The Eye of the Mind Opened
 
 It is a blessed state to know the eye of the mind not only opening, but opened,
 by which an ability and wisdom are witnessed to read in the book
@@ -43,8 +46,8 @@ witness this eye of the mind opened again,
 except as they come to experience that power in themselves which crucifies sin,
 and saves and redeems out of transgression, and are also obedient and subject unto it.
 
-III.
-The Substance of All
+[.centered]
+=== III. The Substance of All
 
 The remembrance of the first day`'s work is very precious,
 even the separation of the light within from the darkness within,
@@ -61,7 +64,8 @@ This is the substance of all.
 It is the end of all words and writings; yes,
 it is the end of all the dispensations of God since the beginning.
 
-IV. The Beastly Nature Slain
+[.centered]
+=== IV. The Beastly Nature Slain
 
 The precious light which shines in the heart is the everlasting Day of God,
 in which he walks, and in which he works.
@@ -84,7 +88,8 @@ that those who know not the beastly nature slain and offered up in themselves,
 and their thoughts and will subjected, are not come to the end of the law,
 nor out from under it, nor to the one everlasting offering--Christ Jesus.
 
-V+++.+++ The Law Which is Spiritual
+[.centered]
+=== V+++.+++ The Law Which is Spiritual
 
 It is very precious (not only when we meet together,
 but at all times) to feel our minds exercised by, and meditating in, the law of the Lord,
@@ -105,7 +110,8 @@ or before any outward law was written or engraved on tablets of stone.
 To this again are many now called, and many are coming, and are come.
 Blessed forever are those that walk therein, and are ruled thereby.
 
-VI. Knowing Christ Not After the Flesh
+[.centered]
+=== VI. Knowing Christ Not After the Flesh
 
 The true knowledge of Jesus Christ is very
 precious--to know him as he was before Abraham was,
@@ -132,8 +138,8 @@ minds were turned from darkness within to the light within,
 which reveals and makes Christ manifest again,
 as he was with the Father before the world began, and as he was before Abraham was.
 
-VII.
-The Upright in Heart
+[.centered]
+=== VII. The Upright in Heart
 
 It is now as truly witnessed as it was of old that,
 "`the eye of the Lord runs to and fro through the earth,`"^
@@ -166,8 +172,8 @@ It is the honest and upright heart that is the good
 ground where the seed of the kingdom grows,
 prospers, and brings forth acceptable fruit.
 
-VIII.
-The Good Things of the Kingdom
+[.centered]
+=== VIII. The Good Things of the Kingdom
 
 It is a very precious thing to witness a true waiting upon the Lord.
 Many great and glorious promises are made to those that truly wait upon him.
@@ -189,7 +195,8 @@ the good things of his kingdom, as they truly wait upon him.
 This waiting does not begin when our solemn meetings begin,
 neither does it end with them, but remains always.
 
-IX. The Operation of Truth
+[.centered]
+=== IX. The Operation of Truth
 
 The truth in itself is very precious,
 and the revelation and knowledge of it in our hearts is also very precious.
@@ -260,7 +267,8 @@ Therefore it concerns us all to wait and watch in
 that which preserves and keeps out of all evil forever,
 namely, the light.
 
-X+++.+++ The Plain Pathway
+[.centered]
+=== X+++.+++ The Plain Pathway
 
 It is a blessed and happy state to have the testimony within ourselves that
 our minds are exercised in that wherein the everlasting universal worship stands,
@@ -316,7 +324,8 @@ and so became plants and trees of righteousness, bearing fruit unto God,
 and giving him the glory and praise of all his works,
 who alone is worthy throughout all generations, forever.
 
-XI. Our First Love
+[.centered]
+=== XI. Our First Love
 
 It is a blessed state always to live in the sense
 and feeling of that love which first visited us,
@@ -360,8 +369,8 @@ This is more than hearing ten thousand sermons.
 Let us always remain in the feeling of, and obedience to, this power,
 and we shall never fall.
 
-XII.
-Preserved in His Power
+[.centered]
+=== XII. Preserved in His Power
 
 It is more than words can express to feel
 and enjoy that wherein the Kingdom of heaven stands.
@@ -451,8 +460,8 @@ and learn by what is written to take warning,
 lest by disobedience and unbelief we fall short of
 receiving the great recompense of reward.
 
-XIII.
-The Bread of the Kingdom
+[.centered]
+=== XIII. The Bread of the Kingdom
 
 The bread of the kingdom is the joy of the Holy Spirit felt and known within,
 which satisfies and refreshes the soul.
@@ -465,8 +474,8 @@ of which the other was but the type and shadow.
 This is the bread that fills and satisfies the hungry,
 when husks and all outward things cannot.
 
-XIV.
-The Foundation of God
+[.centered]
+=== XIV. The Foundation of God
 
 Many are living witnesses in this day, as of old,
 that the foundation of God stands sure, and that this foundation, as now made manifest,
@@ -481,7 +490,8 @@ Now it is a blessed thing, and the duty of every particular,
 to witness themselves living stones, built upon this foundation,
 and to have their hearts and minds united to it and framed with it.
 
-XV. The Teacher Within
+[.centered]
+=== XV. The Teacher Within
 
 The same grace, the same anointing,
 which was the saints`' teacher in the primitive times,
@@ -551,8 +561,8 @@ so long as they abide under such teachers.
 Many are living witnesses that as they gave up to be taught and led by the true teacher,
 the anointing within, they soon became wiser than all their former teachers.
 
-XVI.
-The Ancient Power
+[.centered]
+=== XVI. The Ancient Power
 
 The same everlasting power which preserved
 the righteous in all ages past out of evil,
@@ -640,8 +650,8 @@ blessed with a hundred-fold in this world, and in the world to come, life everla
 Such are the salt of the earth which seasons all things,
 as a city on a hill which cannot be hid, and as the light of the world indeed.
 
-XVII.
-Those Who Love Your Law
+[.centered]
+=== XVII. Those Who Love Your Law
 
 Many are living witnesses that the law of the Spirit of life,
 unto which their minds have been directed, is pure and perfect.
@@ -716,8 +726,8 @@ the inward law existed before any outward law was
 written either in a book or on tablets of stone,
 and before the cause of it was brought forth into the world.
 
-XVIII.
-The Heavenly Treasure
+[.centered]
+=== XVIII. The Heavenly Treasure
 
 The day-spring from on high,
 and the everlasting light has and does shine out
@@ -749,8 +759,8 @@ Therefore, the hearts of the remnant are greatly engaged unto the Lord,
 to walk worthy of the riches of his grace, light, and heavenly treasure,
 of which he has made them partakers.
 
-XIX.
-The Day of Salvation
+[.centered]
+=== XIX. The Day of Salvation
 
 The light of the glorious gospel now shines.
 The day of salvation is come,
@@ -799,7 +809,8 @@ And as they walk and dwell therein, the power of death and hell shall never brea
 but they shall remain as Mount Zion which can never be removed.
 In this stands their happiness and safety; out of this, they are as weak as other people.
 
-XX. Sitting Down in the Kingdom
+[.centered]
+=== XX. Sitting Down in the Kingdom
 
 It is a blessed thing to wait for the appearance
 of him who is the consolation of Israel,
@@ -808,8 +819,8 @@ but it is more blessed to be witnesses of his appearance, and to know his kingdo
 And it is most blessed of all, to know a sitting down in the kingdom with him,
 in the glory of his Father, and our Father, his God, and our God.
 
-XXI.
-The Appearance of Jesus
+[.centered]
+=== XXI. The Appearance of Jesus
 
 It is a blessed thing to truly know how to wait for the appearance of Jesus,
 and to know him when he does appear.
@@ -871,8 +882,8 @@ and God dwells in him, and he in God.
 This is more than a bare profession or verbal confession,
 according to the testimony of John, in his first epistle, chapter 4.
 
-XXII.
-The Little Stone
+[.centered]
+=== XXII. The Little Stone
 
 It was a spiritual and heavenly vision which the prophet Daniel had,
 when he saw the interpretation of the king`'s dream,
@@ -905,8 +916,8 @@ which none knows save he that has it.
 This is the name which is better than the name of sons or daughters.
 He that reads let him understand, and give God the glory forever.
 
-XXIII.
-The Way
+[.centered]
+=== XXIII. The Way
 
 This I testify, that the way of life and everlasting happiness,
 the way that brings to the sitting down in the kingdom of God with Abraham, Isaac,
@@ -941,8 +952,8 @@ no peace, quietness, and soul satisfaction can be enjoyed.
 Without this there is no sitting down in the kingdom of God, nor can the soul attain to,
 or partake of, the rivers of pleasure that are at his right hand.
 
-XXIV.
-Life and Peace
+[.centered]
+=== XXIV. Life and Peace
 
 It is as truly witnessed now, as in days of old,
 that to be spiritually minded is life and peace.
@@ -952,8 +963,8 @@ and to be carnally-minded is death, sorrow, and trouble.
 These things are not only read, but truly known,
 and every particular may feel both within.
 
-XXV.
-Jesus in the Midst
+[.centered]
+=== XXV. Jesus in the Midst
 
 It is as we meet and wait together in the Spirit,
 and as we live and walk in the Spirit,
@@ -964,8 +975,8 @@ teacher and leader, and as they follow and obey him (though but as one of a fami
 and two of a tribe) they will be as the light of the world, as the salt of the earth,
 and as patterns and examples of righteousness to all that behold them.
 
-XXVI.
-The Arm of the Lord Revealed
+[.centered]
+=== XXVI. The Arm of the Lord Revealed
 
 It is a precious thing for every particular
 to know the right arm of the Lord which brings salvation,
@@ -978,8 +989,8 @@ and substance of the Christian religion.
 Such as these know salvation for walls and bulwarks,
 and are as Mount Zion which cannot be moved.
 
-XXVII.
-Rivers of Pleasure
+[.centered]
+=== XXVII. Rivers of Pleasure
 
 It is a very blessed state, always to live, walk, meet together,
 and wait in that which gives free access to the throne of grace,
@@ -991,8 +1002,8 @@ and partake of the least measure of this joy,
 know them to over-balance and outweigh all the treasures, joys,
 and pleasure that this world and the glory of it can afford!
 
-XXVIII.
-The Watchtower of the Righteous
+[.centered]
+=== XXVIII. The Watchtower of the Righteous
 
 The light, to which our minds have been turned,
 was the watchtower of the righteous in all ages,
@@ -1010,8 +1021,8 @@ and have received that faith whereby they believe for the accomplishment of it.
 And as they live and abide in this,
 the blessed experience of the finishing of the work shall be added to their faith.
 
-XXIX.
-The Power and Sufficiency of the Spirit of Truth
+[.centered]
+=== XXIX. The Power and Sufficiency of the Spirit of Truth
 
 It is a good state for every particular to wait in silence upon the Lord.
 These only come to witness obedience to those divine precepts
@@ -1078,8 +1089,8 @@ and have their citizenship in heaven with God, Christ,
 and holy or just men`'s spirits made perfect.
 This the spirit of this world, though clothed with the name of Christianity, cannot bear.
 
-XXX.
-The Second Appearance of Christ
+[.centered]
+=== XXX. The Second Appearance of Christ
 
 It is a very blessed state, to be found true waiters for, and witnesses of,
 the second coming of Christ, which is "`without sin unto salvation.`"^
@@ -1142,8 +1153,8 @@ In this state were some in the primitive times, when they could say,
 footnote:[2 Corinthians 13:8]
 and it is possible to say and do the same now.
 
-XXXI.
-The True Shepherd
+[.centered]
+=== XXXI. The True Shepherd
 
 It is a blessed thing for a man to know within himself,
 and be able to say from a living experience, as one of old did,
@@ -1167,8 +1178,8 @@ These feed upon husks, and are wandering in the dry places,
 and upon the barren mountains where the wants are,
 and are strangers to the green pastures of life and salvation.
 
-XXXII.
-Worship in Spirit and Truth
+[.centered]
+=== XXXII. Worship in Spirit and Truth
 
 It is a very blessed thing for people to know how to worship God aright,
 and to be found in this worship, not only at set times and appointed places,
@@ -1224,8 +1235,8 @@ and from the enemies within, which are the greatest enemies.
 Except this freedom be known, all other knowledge is vain,
 all religion and profession is vain, all talk of God, Christ, and Christianity is vain.
 
-XXXIII.
-Delight in the Law of the Lord
+[.centered]
+=== XXXIII. Delight in the Law of the Lord
 
 Blessed are those who have their minds and hearts always exercised by
 that which leads into the fellowship of "`just men`'s spirits made perfect.`"^
@@ -1291,8 +1302,8 @@ and are understood only by those who are come to the Spirit.
 Those that obey the wicked one lend their ear to him,
 and those that commit sin walk in the way of sinners.
 
-XXXIV.
-The Chamber of His Presence
+[.centered]
+=== XXXIV. The Chamber of His Presence
 
 It is one of the fundamental doctrines of
 religion to believe that God is omnipresent and almighty,
@@ -1347,8 +1358,8 @@ who thereby may be won and persuaded to accept of its offers, and follow its lea
 that they may know the pleasantness of its paths,
 and witness its virtue and operation in their own souls.
 
-XXXV.
-Self Made of No Reputation
+[.centered]
+=== XXXV. Self Made of No Reputation
 
 It is a blessed thing, and a high and heavenly state,
 for every particular to have a witness within that self is made of no reputation.
@@ -1400,8 +1411,8 @@ And this is no longer a cross to him, neither is the cross to be taken up by him
 for this is the sheep that knows Christ`'s voice and follows him with delight,
 and will not follow a stranger.
 
-XXXVI.
-The Name of the Lord
+[.centered]
+=== XXXVI. The Name of the Lord
 
 It is a blessed thing for people to know the name of the Lord.
 They that know it can trust in it as a strong tower unto them,
@@ -1521,8 +1532,8 @@ but these are judged and condemned by the light.
 This light that judges every appearance of evil is a day of judgment,
 wherein men give an account for every idle word they speak.
 
-XXXVII.
-Drawing Near unto God
+[.centered]
+=== XXXVII. Drawing Near unto God
 
 It is a certain truth which was testified by the apostle when he said,
 "`Great is the mystery of godliness.`"^
@@ -1571,8 +1582,8 @@ is the end of faith and hope, and remains when they are gone.
 This was the first, and will be the last.
 Blessed are all that dwell and abide in it, for no evil can enter their dwellings.
 
-XXXVIII.
-The Low Valley
+[.centered]
+=== XXXVIII. The Low Valley
 
 It is the blessing of all blessings to know
 the low valley where the green pastures are,
@@ -1604,8 +1615,8 @@ Those that truly enjoy the least measure of this do esteem it above all the worl
 because they well know that all things in the world are
 not sufficient to purchase the least drop thereof.
 
-XXXIX.
-Possessing the Good Things
+[.centered]
+=== XXXIX. Possessing the Good Things
 
 It is a very blessed thing for every particular
 to feel and know the Spirit of God within themselves,
@@ -1638,7 +1649,8 @@ nor increase with the increase of God in the inward man,
 then they deceive their own souls with a vain, dead, fruitless profession,
 which profits nothing, but will vanish like smoke in the day of the Lord.
 
-XL. Great Salvation
+[.centered]
+=== XL. Great Salvation
 
 It is a precious thing to be a witness of the presence
 of Jesus in the midst as a peaceable Savior.
@@ -1657,8 +1669,8 @@ but in the midst of Jerusalem which comes down from God out of Heaven,
 and before the throne of the Lamb, who is the light thereof,
 and has redeemed them from the earth, and saved them with a great salvation.
 
-XLI.
-The Precious Pearl
+[.centered]
+=== XLI. The Precious Pearl
 
 That which was lost is now found.
 A remnant in this age has dug deep and found the
@@ -1696,8 +1708,8 @@ Then they will be able to say, "`My beloved is mine, and I am his.`"^
 footnote:[Song of Solomon 2:16, 6:3]
 Here is the feeding among the lilies, where there is neither toiling nor spinning.
 
-XLII.
-Where the Deceiver Cannot Come
+[.centered]
+=== XLII. Where the Deceiver Cannot Come
 
 That which makes a people blessed above all the families of the earth,
 is that they are sensible (both in their solemn assemblies and
@@ -1744,8 +1756,8 @@ hope and confidence were immediate companions in the beginning.
 And all the children of the light, who are now come to a dwelling place in paradise,
 are to watch against this, lest, as the serpent beguiled Eve, he beguile them also.
 
-XLIII.
-The Sun of Righteousness
+[.centered]
+=== XLIII. The Sun of Righteousness
 
 The night is far spent, darkness is past, and the true light now shines.
 The day of God is dawned, and the day-star is risen in the hearts of thousands.
@@ -1804,8 +1816,8 @@ in Christendom--even to walk and abide in this blessed light,
 in the Sun of righteousness that is risen and now shines,
 and to witness its healing virtue.
 
-XLIV.
-The Tenderizing Power of the Lord
+[.centered]
+=== XLIV. The Tenderizing Power of the Lord
 
 It is a precious state to be of a tender spirit, of a soft heart,
 prepared to wait upon the Lord.
@@ -1870,8 +1882,8 @@ not now being convinced, reproved, and condemned by it,
 but rather justified and commended.
 This is sweet and precious indeed, as all that are in it know full well.
 
-XLV.
-The Mind Stayed Upon the Lord
+[.centered]
+=== XLV. The Mind Stayed Upon the Lord
 
 It is he that stays at home that divides the spoil of his enemies.
 It is he that stays at home that obtains the blessing.
@@ -1917,8 +1929,8 @@ Indeed this light brings into the one true everlasting universal worship,
 which stands in the Spirit and in the truth.
 Here God, who is light and who dwells in the light, is bowed unto, worshiped, and obeyed.
 
-XLVI.
-Darkness is Past
+[.centered]
+=== XLVI. Darkness is Past
 
 They have attained to a heavenly state,
 who can experientially witness and seal to the truth of that ancient
@@ -1965,8 +1977,8 @@ in our affairs, dealings, and converse among men, even in our common occasions.
 As all are found herein, they are in the true worship of God,
 whether together or asunder.
 
-XLVII.
-The Sabbath Rest
+[.centered]
+=== XLVII. The Sabbath Rest
 
 These are true and faithful sayings testified
 of old--that "`There remains a rest`"^
@@ -2006,8 +2018,8 @@ Only as far as this is effected,
 can any entrance be witnessed into this rest that is prepared,
 and that does remain--let the peoples`' talk and profession be what it will.
 
-XLVIII.
-The Old Man Bound
+[.centered]
+=== XLVIII. The Old Man Bound
 
 This is a great truth: that where a bridle to the tongue is not known,
 and a chain to the will, affections, lusts, and passions witnessed,
@@ -2024,8 +2036,8 @@ and into which the light of this glorious day leads the children thereof.
 So it is precious to wait upon the Lord, who dwells in the light,
 and who leads the children of light into the enjoyment of rest.
 
-XLIX.
-Drawing Near Unto the Lord
+[.centered]
+=== XLIX. Drawing Near Unto the Lord
 
 Certainly it was the joy and delight of the righteous
 in all ages to draw near unto the Lord with their hearts,
@@ -2086,7 +2098,8 @@ and fainting abound,
 and the enemy of the soul prevails--let the talk
 and profession of religion be what it will.
 
-L+++.+++ The Testimony of the Spirit
+[.centered]
+=== L+++.+++ The Testimony of the Spirit
 
 It is a blessing, yes, the blessing of all blessings,
 for every particular to know and feel within themselves that the Spirit of God
@@ -2143,7 +2156,8 @@ and unto whom our minds were at first directed.
 Herein we shall be preachers of righteousness, lights of the world,
 and the salt of the earth indeed.
 
-LI. The Name "`Light`"
+[.centered]
+=== LI. The Name "`Light`"
 
 It is a precious thing to wait, walk, and dwell in the light,
 even in that which makes all things manifest.
@@ -2213,8 +2227,8 @@ yet they not having faith in it, nor believing in it as that in which God dwells
 never know its saving power and virtue.
 Yet such as these shall not escape its reproving and condemning power.
 
-LII.
-To Know His Name
+[.centered]
+=== LII. To Know His Name
 
 It is a blessed thing for people to know the name of the Lord,
 even as some in ages past knew it (and have left
@@ -2282,8 +2296,8 @@ Until this, they can never come to know the name of the Lord as a strong tower, 
 or shield, but instead are led captive and ensnared by the enemy of their souls,
 even at his pleasure.
 
-LIII.
-The Power of Faith
+[.centered]
+=== LIII. The Power of Faith
 
 In this stands our blessedness and everlasting happiness,
 as our eye is kept always looking to Jesus, the author and finisher of our faith,
@@ -2314,8 +2328,8 @@ and of all preaching, writing, and printing,
 even that everyone`'s eye might be turned to Jesus,
 always looking to him who has begun the good work, and who alone is able to finish it.
 
-LIV.
-Citizens of Zion
+[.centered]
+=== LIV. Citizens of Zion
 
 It is a blessed state, to be as a stranger and pilgrim on the earth,
 and to be able to say in truth (as some of old did), "`We have here no continuing city,
@@ -2359,7 +2373,8 @@ and to become a fellow citizen of the saints in light.
 All who have not yet come to this, but are in the way that leads thereto,
 are to wait for it.
 
-LV. The Word of Faith
+[.centered]
+=== LV. The Word of Faith
 
 It is a true saying, recorded in the holy Scriptures, that "`the word is near,
 in the mouth and in the heart; none need to ascend or descend to fetch it down,
@@ -2399,8 +2414,8 @@ and the neglect of hearing its still, small voice,
 is the ground and cause of all ignorance, errors, darkness, and confusion among men,
 in all sects and sorts of religion upon the face of the whole earth.
 
-LVI.
-Fruits of Faith
+[.centered]
+=== LVI. Fruits of Faith
 
 It is a precious thing to have faith,
 and to be always looking unto Jesus the author and finisher of it,
@@ -2435,8 +2450,8 @@ who "`believe and tremble`"^
 footnote:[James 2:19]--this is the only fruit and effect
 of the faith of devils and of wicked men.
 
-LVII.
-Called to Inherit Substance
+[.centered]
+=== LVII. Called to Inherit Substance
 
 It is a blessed thing to know and witness
 a meeting and waiting together in the name of Jesus.
@@ -2482,8 +2497,8 @@ always learning but never learned,
 always hearing and yet ignorant of the voice of the word of life in themselves,
 and of that living bread which comes down from heaven.
 
-LVIII.
-Loving the Appearances of Christ
+[.centered]
+=== LVIII. Loving the Appearances of Christ
 
 To those who believe, Christ is very precious.
 He whom the nations despise, and the builders reject,
@@ -2548,8 +2563,8 @@ Indeed, though they talk of freedom and redemption, sanctification and righteous
 yet they walk in unholiness and corruption.
 Let all concerned consider these things.
 
-LIX.
-Bowing to Jesus
+[.centered]
+=== LIX. Bowing to Jesus
 
 It is a blessed thing for people to meet together in one place with one accord,
 all minding one thing,
@@ -2576,7 +2591,8 @@ For while the mind is carnally exercised, the heart corrupt, the conscience defi
 and the understanding darkened, all is but will-worship, self-work,
 and voluntary humility, and has no acceptance with God.
 
-LX. The Comforter
+[.centered]
+=== LX. The Comforter
 
 It is a true saying which Christ spoke to his disciples when he said,
 "`If I go not away, the Comforter will not come.`"^
@@ -2590,8 +2606,8 @@ These are they who know him come again in the Spirit as a Comforter,
 as a Prince of peace, and are witnesses of his peaceable government in their souls,
 and can say, '`He is come, and we look not for another.`'
 
-LXI.
-Daily Bread
+[.centered]
+=== LXI. Daily Bread
 
 Of a truth, the times of refreshing have come from the presence of the Lord;
 the showers from heaven are falling and the heavenly manna is raining down.
@@ -2649,8 +2665,8 @@ The more that any do truly wait to enjoy this,
 the more they will feel their strength renewed with heavenly encouragement,
 so that they can run and not be weary, and walk and not faint.
 
-LXII.
-The Still, Small Voice
+[.centered]
+=== LXII. The Still, Small Voice
 
 That which makes a people blessed and happy,
 is that they hear and obey the still, small voice, which says, "`This is the way,
@@ -2693,8 +2709,8 @@ in this his visitation with his Dayspring from on high,
 which shines gloriously to a remnant.
 Praises to God forever.
 
-LXIII.
-My Redeemer Lives
+[.centered]
+=== LXIII. My Redeemer Lives
 
 They are a blessed people who need not seek for their Teacher, their Savior,
 and their Redeemer, but instead their eye beholds him, and their ear hears his voice,
@@ -2720,8 +2736,8 @@ which peace cannot be enjoyed by any (let them profess what they will,
 though it be the truth itself) unless they experientially know their Teacher,
 their Savior, and their Redeemer.
 
-LXIV.
-The Lord`'s Highway
+[.centered]
+=== LXIV. The Lord`'s Highway
 
 The very remembrance of the time when our minds were turned
 to the true light that now shines (not only in the darkness,
@@ -2765,8 +2781,8 @@ Oh that we may adorn our profession with all holiness of life and conversation,
 to the praise of Him that has called us out of darkness into his marvelous light!
 To him be the glory forever.
 
-LXV.
-The Leaven of the Kingdom
+[.centered]
+=== LXV. The Leaven of the Kingdom
 
 It is a blessed thing to know the kingdom of God to be come,
 even the same kingdom for which Christ long ago taught his disciples to pray,
@@ -2822,8 +2838,8 @@ Indeed they glorified and praised God for the enjoyment thereof, even in the mid
 and over all afflictions and fiery trials.
 This was their joy and crown, and the righteous in this age desire no other.
 
-LXVI.
-The Bread Which Nourishes
+[.centered]
+=== LXVI. The Bread Which Nourishes
 
 We have been and are called to inherit substance,
 and all that have obeyed this call, and abode with him that has called,
@@ -2848,8 +2864,8 @@ table that begets this cry in the hearts of a remnant:
 "`Evermore give us this bread!`"^
 footnote:[John 6:34]
 
-LXVII.
-The Eye Kept Upon the Lord
+[.centered]
+=== LXVII. The Eye Kept Upon the Lord
 
 Blessed are all who have their eye unto the Lord,
 and their ear open unto him at all times, in all places,
@@ -2875,8 +2891,8 @@ Indeed this grace is able and sufficient to teach you all good,
 save and defend you from all evil, lead you into glory,
 and establish you in the kingdom thereof forever.
 
-LXVIII.
-Temples of the Holy Spirit
+[.centered]
+=== LXVIII. Temples of the Holy Spirit
 
 It is a very blessed thing, and they are in a very blessed state and condition,
 who can say in truth that their bodies are the temples of the Holy Spirit.
@@ -2929,8 +2945,8 @@ have nothing to do in rearing an altar, in building a temple, in setting up wors
 or offering sacrifices to God.
 Man`'s righteousness and his wickedness are both an abomination to the Lord.
 
-LXIX.
-The Power of the Gospel
+[.centered]
+=== LXIX. The Power of the Gospel
 
 The gospel is the power of God unto salvation.
 This gospel was preached in Abraham`'s time, yes even in Enoch`'s and Adam`'s time,
@@ -2984,8 +3000,8 @@ and of those who have drunk from the whore`'s cup,
 whose wine of fornication has made drunk all the nations.
 He that can understand, let him.
 
-LXX.
-Heavenly Jerusalem
+[.centered]
+=== LXX. Heavenly Jerusalem
 
 Blessed are all those who know themselves members of the true church,
 which is built of living stones, elect and precious,
