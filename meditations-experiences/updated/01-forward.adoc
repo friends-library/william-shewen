@@ -24,6 +24,8 @@ Some are mine, and are labeled Editor`'s Note.
 Some appear to be Shewen`'s original footnotes,
 and are placed in quotations next to his initials, W. S.
 
+[.signed-section-signature]
 Jason R. Henderson
 
+[.signed-section-context-close]
 December, 2015

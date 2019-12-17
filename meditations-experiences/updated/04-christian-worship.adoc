@@ -1,4 +1,5 @@
-== Concerning Christian Worship In What it Stands And How it is Performed
+[#chap4, short="Concerning Christian Worship"]
+== Concerning Christian Worship In What it Stands and How it is Performed
 
 There is a great contest in Christendom among the diverse
 sects and bare professions of Christianity about worship,
@@ -194,7 +195,8 @@ and to dwell on that holy mountain where there is no destroyer,
 and to inhabit that city whose builder and maker is God.
 To him be praise and glory forever more!
 
-A Few Words Added to the Sensible Reader
+[.centered]
+=== A Few Words Added to the Sensible Reader
 
 You who are awakened out of the sleep of death,
 and risen out of the grave of sin, and out of the sea of corruption,
