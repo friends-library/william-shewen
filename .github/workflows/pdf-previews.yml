@@ -23,11 +23,8 @@ jobs:
           curl -s ${CLOUD_STORAGE_BUCKET_URL}/actions/${PRINCE_FILENAME}.tar.gz > ~/prince.tar.gz
           tar -xvzf ~/prince.tar.gz -C ~ > /dev/null
           printf "$HOME\n" | ~/${PRINCE_FILENAME}/install.sh
-      - name: get changed files
-        uses: trilom/file-changes-action@v1.2.4
-        with:
-          githubToken: ${{ github.token }}
+      - uses: 808sAndBR/file-changes-action@v1.2.5
       - name: create pdf previews
-        uses: friends-library-dev/action-ts-pack/actions/pdf@master
+        uses: friends-library/dev/actions/ts-pack/actions/pdf@master
         with:
           GITHUB_TOKEN: ${{ github.token }}

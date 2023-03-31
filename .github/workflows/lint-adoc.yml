@@ -8,11 +8,9 @@ jobs:
     runs-on: ubuntu-latest
     if: github.ref != 'refs/heads/master'
     steps:
-      - uses: trilom/file-changes-action@v1.2.4
-        with:
-          githubToken: ${{ github.token }}
+      - uses: 808sAndBR/file-changes-action@v1.2.5
       - uses: actions/checkout@v2
       - name: lint
-        uses: friends-library-dev/action-ts-pack/actions/lint-adoc@master
+        uses: friends-library/dev/actions/ts-pack/actions/lint-adoc@master
         with:
           github_token: ${{ github.token }}

@@ -15,6 +15,6 @@ jobs:
           CLOUD_STORAGE_ENDPOINT: ${{ secrets.CLOUD_STORAGE_ENDPOINT }}
           CLOUD_STORAGE_KEY: ${{ secrets.CLOUD_STORAGE_KEY }}
           CLOUD_STORAGE_SECRET: ${{ secrets.CLOUD_STORAGE_SECRET }}
-        uses: friends-library-dev/action-ts-pack/actions/pr-cleanup@master
+        uses: friends-library/dev/actions/ts-pack/actions/pr-cleanup@master
         with:
           github_token: ${{ github.token }}
